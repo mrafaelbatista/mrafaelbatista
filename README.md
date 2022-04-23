@@ -11,7 +11,8 @@ O love to work with data-driven, for this I chose to study and work with data. I
 
 I’m a GDG organizer, this community at João Pessoa-PB is part of the Google Developers Program, and in local we make events to promote social and technological changes around.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/mrafaelbatista/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrafaelbatista&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrafaelbatista&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 I’m currently learning about Data Science
 
